@@ -6,5 +6,10 @@ To clone this repo, follow these steps:
 2. Navigate to the directory where you want to clone the repo.
 3. Run the following command:
 ```
-git clone https://github.com/asdbukhari/DABS.git
+https://github.com/asdbukhari/bootstrap-newbie.git
 ```
+
+# Starting the server
+
+1. Install the Live server extension in vs code
+2. Open index.html file and click on the **Go Live** button right bottom of your vs code
